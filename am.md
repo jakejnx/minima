@@ -1,6 +1,6 @@
 ---
 title: Am
-permalink: "/about/"
+permalink: "/am/"
 english: https://jnx.wales/about/
 layout: page
 ---
