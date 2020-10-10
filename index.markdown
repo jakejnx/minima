@@ -1,6 +1,7 @@
 ---
 title: Dylunio Gwe Awesome ac Adeiladu Cymwysiadau Cyflym
 date: 2020-10-08 09:45:00 Z
+english: https://jnx.wales/
 layout: home
 ---
 
