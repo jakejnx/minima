@@ -1,9 +1,9 @@
 ---
-title: Oracle Apex Business Application
+title: Cais Busnes Oracle Apex
 date: 2020-10-09 16:54:00 Z
-short: A simple, fast solution to remove paper, spreadsheets or small databases from
-  your business.  Our apps are easy to use, fast and reliable.
+short: Datrysiad syml, cyflym i dynnu papur, taenlenni neu gronfeydd data bach o'ch
+  busnes. Mae ein apiau yn hawdd eu defnyddio, yn gyflym ac yn ddibynadwy.
 ---
 
-We develop simple business applications to replace spreadsheets and small databases.
+Rydym yn datblygu cymwysiadau busnes syml i ddisodli taenlenni a chronfeydd data bach.
 ...
