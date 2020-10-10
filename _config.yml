@@ -25,6 +25,7 @@ defaults:
     type: page
   values:
     layout: page
+    english: ''
 author:
   name: Jake Jenkins
   email: shwmae@jnx.cymru
