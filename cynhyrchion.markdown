@@ -8,7 +8,7 @@ layout: page
 <ul>
   {% for cynhyrchion in site.cynhyrchion %}
     <li>
-      <a href="{{ product.url }}">{{ cynhyrchion.title }}</a>
+      <a href="{{ cynhyrchion.url }}">{{ cynhyrchion.title }}</a>
 <p>{{ cynhyrchion.short }}</p>
     </li>
   {% endfor %}
