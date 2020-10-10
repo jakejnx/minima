@@ -2,11 +2,11 @@
 title: JNX.cymru
 timezone: UTC
 collections:
-  posts:
-    title: Posts
-    output: true
   cynhyrchion:
     title: Cynhyrchion
+    output: true
+  posts:
+    title: Posts
     output: true
   uploads:
     title: Uploads
