@@ -5,10 +5,10 @@ layout: page
 ---
 
 <ul>
-  {% for product in site.products %}
+  {% for cynhyrchion in site.cynhyrchion %}
     <li>
-      <a href="{{ product.url }}">{{ product.title }}</a>
-<p>{{ product.short }}</p>
+      <a href="{{ product.url }}">{{ cynhyrchion.title }}</a>
+<p>{{ cynhyrchion.short }}</p>
     </li>
   {% endfor %}
 </ul>
