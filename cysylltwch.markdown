@@ -4,10 +4,10 @@ date: 2020-10-08 10:54:00 Z
 english: https://jnx.wales/contact
 ---
 
-Phone:
+Ffôn:
 02920 001 404
 
-Email:
+E-bost:
 hello@jnx.wales
 
 Whatsapp
