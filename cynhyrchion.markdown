@@ -5,11 +5,17 @@ english: https://jnx.wales/products
 layout: page
 ---
 
-<ul>
-  {% for cynhyrchion in site.cynhyrchion %}
-    <li>
-      <a href="{{ cynhyrchion.url }}">{{ cynhyrchion.title }}</a>
-<p>{{ cynhyrchion.short }}</p>
-    </li>
+{% for cynhyrchion in site.cynhyrchion %}
+  <div class="w3-container w3-cell w3-mobile w3-third" style="max-width: 500px; min-width: 400px;">
+    <a href="{{ cynhyrchion.url }}" style="text-decoration: none;">
+    <div class="w3-card-4">
+        <img src="/uploads/img/thumb/{{ cynhyrchion.image }}" alt="Alps" class="w3-image" style="min-height: 350px;">
+        <div class="w3-container w3-center">
+          <h3>{{ cynhyrchion.title }}</h3>
+        </div>
+      </div></a>
+  </div>
   {% endfor %}
-</ul>
+<p>&nbsp;</p>
+<div class="w3-container">
+  <p>&nbsp;</p>

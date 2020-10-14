@@ -1,0 +1,13 @@
+@font-face {
+    font-family: Objektiv Mk3 W03 Regular;
+    src: url('/assets/ObjektivMk3W03-Regular.woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: Objektiv Mk3 W03 XBold;
+    src: url('/assets/ObjektivMk3W03-XBold.woff');
+    font-weight: normal;
+    font-style: normal;
+  }
