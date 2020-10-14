@@ -8,7 +8,7 @@ Ffôn:
 02920 001 404
 
 E-bost:
-hello@jnx.wales
+shwmae@jnx.cymru
 
 Whatsapp
 Facebook
